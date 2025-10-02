@@ -19,8 +19,20 @@ public class Ejercicio3 {
         //validamos edades negativas
         while(true){
             edad= ingresarEstudiante.nextInt();
+            ingresarEstudiante.nextLine();
             if(edad<=0 || edad > 100){
                 System.out.println("Ingrese una edad valida");
+            }else{
+                break;
+            }
+        }
+        //validamos altura
+        System.out.println("Ingrese la altura del aspirante: ");
+        while(true){
+            altura= ingresarEstudiante.nextDouble();
+            ingresarEstudiante.nextLine();
+            if (altura <=0){
+                System.out.println("Ingrese una altura valida");
             }else{
                 break;
             }
