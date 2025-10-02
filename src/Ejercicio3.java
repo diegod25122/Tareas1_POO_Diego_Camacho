@@ -37,6 +37,12 @@ public class Ejercicio3 {
                 break;
             }
         }
+        //validamos si cumple o no
+        if (edad>=18 && altura >=1.60){
+            System.out.println("El aspirante: "+nombre+" cumple con los requisitos");
+        }else{
+            System.out.println("El aspirante: "+nombre+" no cumple con los requisitos");
+        }
 
     }
 }
