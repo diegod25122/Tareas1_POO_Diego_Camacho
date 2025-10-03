@@ -4,7 +4,7 @@
 //Salida: “Cumple” o “No cumple”.
 //Reglas: edad y altura deben ser positivas.
 import java.util.Scanner;
-
+//solo funciona una por persona
 public class Ejercicio3 {
     public static void main(String[] args) {
         String nombre = "";
@@ -44,5 +44,5 @@ public class Ejercicio3 {
             System.out.println("El aspirante: "+nombre+" no cumple con los requisitos");
         }
 
-    }
+    }//xd
 }

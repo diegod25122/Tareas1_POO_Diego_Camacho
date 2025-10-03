@@ -57,4 +57,5 @@ public class Ejercicio2 {
         System.out.println("Telefono: "+telefono+"\n");
         System.out.println("Email: "+email+"\n");
     }
+    //Ola
 }
