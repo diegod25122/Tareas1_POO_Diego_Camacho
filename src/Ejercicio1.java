@@ -26,5 +26,5 @@ public class Ejercicio1 {
         }
         System.out.println("El total del inventario es: "+totalInventario);
     }
-}
+}//wwwwwll
 
