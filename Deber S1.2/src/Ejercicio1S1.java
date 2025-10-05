@@ -23,6 +23,7 @@ public class Ejercicio1S1{
         promedio = (n1 + n2 + n3)/3;
         System.out.println("El promedio del estudiante es: "+promedio);
 
+        //validamos las salidas de aprobacion o reprobacion
         if (promedio>=7){
             System.out.println("El estudiante: "+nombre+" aprobo con un promedio de "+promedio);
         }else{

@@ -11,10 +11,12 @@ public class Ejercicio2S1 {
         int contador=0;
         System.out.print("Cuantos numeros desea ingresar: ");
         ingresar = sc.nextInt();
+        //usamos un  bucle para que el usuario ingrese por consola
         for (int i = 1; i <= ingresar; i++) {
             System.out.println("Ingrese el "+i+ " numero: ");
             numeros = sc.nextInt();
             if (numeros%2==0){
+                //inicializamos el contador para que poder saber cuantos pares se ingresaron
                 contador = contador+1;
             }
         }

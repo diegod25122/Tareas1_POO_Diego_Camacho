@@ -5,6 +5,7 @@
 import java.util.Scanner;
 public class Ejercicio4Reto {
     public static void main(String[] args) {
+        //variables
         String nombre;
         int edad;
         double altura;
@@ -15,6 +16,7 @@ public class Ejercicio4Reto {
         edad = sc.nextInt();
         System.out.print("Ingrese el altura: ");
         altura = sc.nextDouble();
+        //validamos la edad y la altura para aprobar al estudiante o no
         if (edad >= 18 && altura >= 1.60) {
             System.out.println(nombre+ " Aceptado para el equipo");
         }else{
