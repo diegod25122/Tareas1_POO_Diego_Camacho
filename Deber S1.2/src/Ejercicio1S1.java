@@ -4,6 +4,7 @@
 //•	Calcula el promedio.
 //•	Muestra si aprueba (>=7) o reprueba.
 import java.util.Scanner;
+//deber
 public class Ejercicio1S1{
     public static void main(String[] args) {
         String nombre;
