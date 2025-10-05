@@ -13,7 +13,7 @@ public class Ejercicio1S1{
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese el nombre del estudiante: ");
         nombre = sc.nextLine();
-        System.out.println("Ingrese sus notas en una escala de 0 a 10: ");
+        System.out.println("Ingrese sus notas e n una escala de 0 a 10: ");
         System.out.println("Ingrese la primera nota: ");
         n1 = sc.nextDouble();
         System.out.println("Ingrese la segunda nota: ");
