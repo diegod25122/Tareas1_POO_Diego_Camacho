@@ -4,7 +4,6 @@
 //Salida: “Cumple” o “No cumple”.
 //Reglas: edad y altura deben ser positivas.
 import java.util.Scanner;
-
 public class Ejercicio3 {
     public static void main(String[] args) {
         String nombre = "";
