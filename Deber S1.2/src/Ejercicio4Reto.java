@@ -22,5 +22,6 @@ public class Ejercicio4Reto {
         }else{
             System.out.println(nombre+ " No puede ser aceptado en el equipo");
         }
+        sc.close();
     }
 }

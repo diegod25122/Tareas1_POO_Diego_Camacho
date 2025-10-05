@@ -21,5 +21,7 @@ public class Ejercicio2S1 {
             }
         }
         System.out.println("Se han ingresado: "+contador+" numeros pares");
+        sc.close();
     }
+
 }

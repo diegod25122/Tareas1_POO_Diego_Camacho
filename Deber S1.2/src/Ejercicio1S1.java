@@ -29,7 +29,7 @@ public class Ejercicio1S1{
         }else{
             System.out.println("El estudiante: "+nombre+" reprobo con un promedio de "+promedio);
         }
-
+        sc.close();
     }
 
 }
