@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Deber S1.2/Deber S1.2.iml" filepath="$PROJECT_DIR$/Deber S1.2/Deber S1.2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Deber S1.2/Deber S2/Deber S2.iml" filepath="$PROJECT_DIR$/Deber S1.2/Deber S2/Deber S2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deberes/Deber S1.2.iml" filepath="$PROJECT_DIR$/Deberes/Deber S1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deberes/Deber S2/Deber S2.iml" filepath="$PROJECT_DIR$/Deberes/Deber S2/Deber S2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deberes/Deber S3.1/Deber S3.1.iml" filepath="$PROJECT_DIR$/Deberes/Deber S3.1/Deber S3.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
     </modules>
   </component>
